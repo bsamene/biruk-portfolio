@@ -17,13 +17,39 @@
     color: #f0f0f0;
   }
 
+
   .about h2 {
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Muli', sans-serif;
     font-size: 80px;
     color: #e9d35b;
     height: 50px;
-  }
+    font-weight: 100;
+     /* Ensures the content is not revealed until the animation */
+    text-align: center;
+    overflow: hidden;
 
+    border-right: 5px solid white; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .09em; /* Adjust as needed */
+
+
+
+  animation:
+    typing 1.75s steps(20, end),
+    blink-caret 0.5s step-end infinite;
+    padding-bottom: 70px;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 35% }
+}
+
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: white; }
+}
   .about .prompt {
     width: 40%;
     font-size: 30px;
