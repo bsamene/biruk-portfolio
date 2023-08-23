@@ -11,8 +11,10 @@ function App() {
   return (
     <div className="App">
       <Router basename = "/biruk-portfolio">
-        <Navbar />
+      <Navbar />
+
         <Routes>
+          <Route path = "" element = {<Home />} /> 
           <Route path = "/homepage" element = {<Home />} />
           <Route path = "/projects" element = {<Projects />} />
           <Route path = "/project/:id" element = {<ProjectDisplay />}/>
