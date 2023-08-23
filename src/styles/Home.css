@@ -28,7 +28,7 @@
     text-align: center;
     overflow: hidden;
 
-    border-right: 2px solid white; /* The typwriter cursor */
+    border-right: .025em solid white; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
     letter-spacing: .09em; /* Adjust as needed */
@@ -41,7 +41,7 @@
 }
 @keyframes typing {
   from { width: 0 }
-  to { width: 25% }
+  to { width: 30% }
 }
 
 
