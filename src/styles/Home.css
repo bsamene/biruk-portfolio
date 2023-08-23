@@ -35,7 +35,7 @@
     position: relative;
 
   animation:
-    typing 1.3s steps(26, end),
+    typing 2.5s steps(15, end),
     blink-caret 0.5s linear infinite;
     padding-bottom: 70px;
 }
@@ -43,7 +43,6 @@
   from { width: 0 }
   to { width: 30% }
 }
-
 
 @keyframes blink-caret {
   from, to { border-color: rgba(255,255,255,.75) }
