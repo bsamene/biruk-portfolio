@@ -4,17 +4,11 @@ import InstagramIcon from "@material-ui/icons/Instagram";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from '@material-ui/icons/GitHub';
 import "../styles/Home.css"
-import Typewriter from "typewriter-effect";
+
 function Home() {
   return <div className = "home">
     <div className = "about">
-     <h2>
-      <Typewriter
-      onInit = {(typewriter) => {
-        typewriter.typeString("Biruk Amene").start();
-      }}
-      />
-     </h2>
+     <h2> Biruk Amene </h2>
      <div className = "prompt">
         <p> CS @ Duke University</p>
         <InstagramIcon />
