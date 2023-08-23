@@ -25,6 +25,7 @@ function Navbar() {
         </div>
         <div className='links'>
             <Link to = "/homepage">Home </Link>
+            <span class = "divider"> | </span>
             <Link to = "/projects">Projects</Link>
         </div>
     </div>

@@ -88,3 +88,11 @@
       flex-direction: row;
     }
   }
+
+  .divider {
+
+    font-size: 20px;
+    font-family: 'Muli', sans-serif;
+    color: #e9d35b;
+
+  }
