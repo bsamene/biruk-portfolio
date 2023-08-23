@@ -34,11 +34,8 @@
     letter-spacing: .09em; /* Adjust as needed */
     position: relative;
 
-
-
-
-  animation:
-    typing 1.75s steps(20, end),
+  animation: 
+    typing 1.3s steps(26, end),
     blink-caret 0.5s linear infinite;
     padding-bottom: 70px;
 }
@@ -60,6 +57,11 @@
     font-size: 60px;
     margin: 5px;
     color: white;
+  }
+
+  .about p {
+    font-family: 'Muli', sans-serif;
+    font-weight: lighter;
   }
 
 

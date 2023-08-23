@@ -11,7 +11,7 @@ function Home() {
     <div className = "about">
      <h2> Biruk Amene </h2>
      <div className = "prompt">
-        <p> CS @ Duke University</p>
+     <p> CS <span class="highlight">@</span> Duke University</p>
         <a href = "https://instagram.com/biruk_sa?igshid=MmIzYWVlNDQ5Yg==">
         <InstagramIcon />
         </a>

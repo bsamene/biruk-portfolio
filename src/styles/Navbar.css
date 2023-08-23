@@ -11,6 +11,8 @@
     align-items: center;
     justify-content: center;
     color: white;
+    font-family: 'Muli', sans-serif;
+    font-weight: lighter;
   }
 
   .navbar a {
