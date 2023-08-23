@@ -12,9 +12,15 @@ function Home() {
      <h2> Biruk Amene </h2>
      <div className = "prompt">
         <p> CS @ Duke University</p>
+        <a href = "https://instagram.com/biruk_sa?igshid=MmIzYWVlNDQ5Yg==">
         <InstagramIcon />
+        </a>
+        <a href = "https://www.linkedin.com/in/biruk-amene-274316219/">
         <LinkedInIcon />
+        </a>
+        <a href = "https://github.com/bsamene">
         <GitHubIcon />
+        </a>
      </div>
      </div>
 

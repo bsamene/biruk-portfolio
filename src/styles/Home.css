@@ -22,7 +22,7 @@
     font-family: 'Muli', sans-serif;
     font-size: 80px;
     color: #e9d35b;
-    height: 50px;
+    height: 20px;
     font-weight: 100;
      /* Ensures the content is not revealed until the animation */
     text-align: center;
@@ -32,23 +32,25 @@
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
     letter-spacing: .09em; /* Adjust as needed */
+    position: relative;
+
 
 
 
   animation:
     typing 1.75s steps(20, end),
-    blink-caret 0.5s step-end infinite;
+    blink-caret 0.5s linear infinite;
     padding-bottom: 70px;
 }
 @keyframes typing {
   from { width: 0 }
-  to { width: 35% }
+  to { width: 30% }
 }
 
 
 @keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: white; }
+  from, to { border-color: rgba(255,255,255,.75) }
+  50% { border-color: transparent; }
 }
   .about .prompt {
     width: 40%;
