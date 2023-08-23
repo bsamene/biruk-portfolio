@@ -11,7 +11,7 @@ function Navbar() {
 
     useEffect(() => {
         setExpandNavbar(false);
-    }, [location])
+    }, [location]);
 
   return (
     <div className='navbar' id = {expandNavbar ? "open" : "close"}>
@@ -31,4 +31,4 @@ function Navbar() {
   )
 }
 
-export default Navbar
+export default Navbar;
