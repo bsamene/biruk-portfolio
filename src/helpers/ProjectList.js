@@ -10,9 +10,9 @@ export const ProjectList = [
         skills: "React.js, Javascript, HTML, CSS, Supabase",
     },
     {
-        name: "Type Racer",
+        name: "Duke Package Pickup Hub",
         image: Placeholder2,
-        skills: "Javascript, HTML, CSS",
+        skills: "Ruby, Ruby on Rails, React.js, Javascript, HTML, CSS, Docker, PostgreSQL, Git",
     },
     {
         name: "Type Racer",
