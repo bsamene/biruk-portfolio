@@ -12,9 +12,6 @@ function Home() {
      <h2> Biruk Amene </h2>
      <div className = "prompt">
      <p> CS <span class="highlight">@</span> Duke University</p>
-        <a href = "https://instagram.com/biruk_sa?igshid=MmIzYWVlNDQ5Yg==" target="_blank">
-        <InstagramIcon />
-        </a>
         <a href = "https://www.linkedin.com/in/biruk-amene-274316219/" target="_blank">
         <LinkedInIcon />
         </a>

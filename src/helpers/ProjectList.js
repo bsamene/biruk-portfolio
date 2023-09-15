@@ -7,9 +7,9 @@ import Placeholder6 from "../assets/Placeholder6.png"
 
 export const ProjectList = [
     {
-        name: "Type Racer",
+        name: "EcoStart",
         image: Placeholder1,
-        skills: "Javascript, HTML, CSS",
+        skills: "React.js, Javascript, HTML, CSS, Supabase",
     },
     {
         name: "Type Racer",
