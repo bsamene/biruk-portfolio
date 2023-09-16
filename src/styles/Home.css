@@ -20,7 +20,7 @@
 
   .about h2 {
     font-family: 'Muli', sans-serif;
-    font-size: 80px;
+    font-size: 50px;
     color: #e9d35b;
     height: 20px;
     font-weight: 100;
@@ -51,10 +51,10 @@
 }
   .about .prompt {
     width: 40%;
-    font-size: 30px;
+    font-size: 10px;
   }
   .prompt svg {
-    font-size: 60px;
+    font-size: 30px;
     margin: 5px;
     color: white;
   }
