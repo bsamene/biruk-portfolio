@@ -36,3 +36,7 @@
     color: #3e497a;
     font-weight: lighter;
   }
+
+  .projectDescription {
+    max-width: 50%;
+  }

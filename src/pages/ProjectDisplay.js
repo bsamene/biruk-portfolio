@@ -14,7 +14,9 @@ function ProjectDisplay() {
         <img src = {project.image} />
         </a>
         <p>Written in {project.skills} </p>
+        <div className = "projectDescription">
         <p>{project.description}</p>
+        </div>
         <p></p>
    </div>
   );
