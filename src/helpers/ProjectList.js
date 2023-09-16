@@ -12,7 +12,7 @@ export const ProjectList = [
     {
         name: "Duke Package Pickup Hub",
         image: Placeholder2,
-        skills: "Ruby, Ruby on Rails, React.js, Javascript, HTML, CSS, Docker, PostgreSQL, Git",
+        skills: "Ruby, React.js, HTML, CSS",
     },
     {
         name: "Type Racer",

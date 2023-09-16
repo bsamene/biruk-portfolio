@@ -6,24 +6,32 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    font-weight: lighter;
+    font-family: 'Muli', sans-serif;
+
   }
 
   .project h1 {
     margin-top: 50px;
     color: #3e497a;
     font-size: 35px;
+    font-weight: lighter;
+
   }
   .project img {
     width: 700px;
     border-radius: 10px;
+    font-weight: lighter;
   }
 
   .project p {
     font-size: 40px;
     color: #3e497a;
+    font-weight: lighter;
   }
 
   .project svg {
     font-size: 60px;
     color: #3e497a;
+    font-weight: lighter;
   }

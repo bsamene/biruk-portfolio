@@ -5,13 +5,15 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-  
+    font-family: 'Muli', sans-serif;
+
   }
   .projects .projectTitle {
     text-align: center;
     color: #3e497a;
     font-size: 60px;
     font-weight: bolder;
+
   }
 
   .ProjectList {
@@ -31,6 +33,8 @@
     margin: 40px;
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
     text-align: center;
+
+
   }
   .projectItem:hover {
     box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
@@ -50,6 +54,7 @@
 
   .projectItem h1 {
     font-size: 25px;
+    font-weight: lighter;
   }
 
   @media only screen and (max-width: 1300px) {
