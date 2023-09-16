@@ -8,13 +8,13 @@
 
   .about {
     width: 100%;
-    height: calc(100vh - 180px);
+    height: calc(110vh - 180px);
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-color: #21325e;
+    background-color: #21325E;
     color: #f0f0f0;
 
   }
@@ -29,7 +29,7 @@
      /* Ensures the content is not revealed until the animation */
     text-align: center;
     overflow: hidden;
-   
+
     border-right: .025em solid white; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
