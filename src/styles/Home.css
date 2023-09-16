@@ -3,6 +3,7 @@
     align-items: center;
     font-family: "Arial", sans-serif;
     color: #3e497a;
+
   }
 
   .about {
@@ -15,6 +16,7 @@
     text-align: center;
     background-color: #21325e;
     color: #f0f0f0;
+
   }
 
 
@@ -27,7 +29,7 @@
      /* Ensures the content is not revealed until the animation */
     text-align: center;
     overflow: hidden;
-
+   
     border-right: .025em solid white; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
@@ -62,6 +64,7 @@
   .about p {
     font-family: 'Muli', sans-serif;
     font-weight: lighter;
+
   }
 
 
