@@ -8,16 +8,19 @@ export const ProjectList = [
         name: "EcoStart",
         image: Placeholder1,
         skills: "React, Javascript, HTML, CSS, Supabase",
+        description: ""
     },
     {
         name: "Duke Package Pickup Hub",
         image: Placeholder2,
         skills: "Ruby, React, HTML, CSS",
+        description:
     },
     {
         name: "Type Racer",
         image: Placeholder3,
         skills: "React, Express, Node",
+        description:
     }
 ]
 
