@@ -7,17 +7,17 @@ export const ProjectList = [
     {
         name: "EcoStart",
         image: Placeholder1,
-        skills: "React.js, Javascript, HTML, CSS, Supabase",
+        skills: "React, Javascript, HTML, CSS, Supabase",
     },
     {
         name: "Duke Package Pickup Hub",
         image: Placeholder2,
-        skills: "Ruby, React.js, HTML, CSS",
+        skills: "Ruby, React, HTML, CSS",
     },
     {
         name: "Type Racer",
         image: Placeholder3,
-        skills: "Javascript, HTML, CSS",
+        skills: "React, Express, Node",
     }
 ]
 
