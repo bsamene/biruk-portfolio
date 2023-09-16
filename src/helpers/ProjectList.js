@@ -8,13 +8,15 @@ export const ProjectList = [
         name: "EcoStart",
         image: Placeholder1,
         skills: "React, Javascript, HTML, CSS, Supabase",
-        description: "A web platform aimed at empowering individuals to fight environmental issues through education, engagement, and collective action."
+        description: "A web platform aimed at empowering individuals to fight environmental issues through education, engagement, and collective action.",
+        link: "https://github.com/bsamene/HackDuke2023",
     },
     {
         name: "Duke Package Pickup Hub",
         image: Placeholder2,
         skills: "Ruby, React, HTML, CSS",
-        description: "A mobile-responsive full stack web app that eliminates student wait times at Duke's mail center."
+        description: "A mobile-responsive full stack web app that eliminates student wait times at Duke's mail center.",
+        link: "https://campus-mail-pickup-test.oit.duke.edu/",
     },
     {
         name: "Type Racer",
