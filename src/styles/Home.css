@@ -51,10 +51,10 @@
 }
   .about .prompt {
     width: 40%;
-    font-size: 10px;
+    font-size: 25px;
   }
   .prompt svg {
-    font-size: 30px;
+    font-size: 60px;
     margin: 5px;
     color: white;
   }
