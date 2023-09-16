@@ -13,7 +13,7 @@ function ProjectDisplay() {
         <a href = {project.link}>
         <img src = {project.image} />
         </a>
-        <p>Written in {project.skills} </p>
+        <p style={{ marginBottom: 20}}>Written in {project.skills} </p>
         <div className = "projectDescription">
         <p>{project.description}</p>
         </div>
