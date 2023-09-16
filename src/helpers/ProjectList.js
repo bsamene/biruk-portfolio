@@ -22,7 +22,7 @@ export const ProjectList = [
         name: "Type Racer",
         image: Placeholder3,
         skills: "React, Express, Node",
-        description: "MERN stack project I'm making because I'm a very fast typer (170 wpm) and wanted to see how the typing games I always play work.",
+        description: "MERN stack project I'm creating because I'm a very fast typer (170 wpm) and wanted to see how the typing games I always play work.",
         link: "https://github.com/bsamene/OnePieceTypeRacer",
     }
 ]
