@@ -7,7 +7,7 @@
     flex-direction: column;
     font-family: 'Muli', sans-serif;
     align-items: center;
-
+    background-color: #21325e;
 
   }
   .projects .projectTitle {
@@ -16,9 +16,11 @@
     font-size: 60px;
     font-weight: bolder;
 
+
   }
 
   .ProjectList {
+    background-color: #21325e;
     width: 70vw;
     height: auto;
     display: grid;
@@ -65,7 +67,7 @@
 
   .projectItem h1 {
 
-   
+
     font-size: 25px;
     font-weight: lighter;
     color: white;
@@ -91,6 +93,6 @@
     .projectItem {
       width: 300px;
       height: 300px;
-
+      
     }
   }

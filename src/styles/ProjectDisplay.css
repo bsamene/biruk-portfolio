@@ -1,4 +1,9 @@
 
+body {
+  background-color: #21325e; /* Your desired background color */
+  
+}
+
 .project {
     width: 100%;
     height: calc(100vh - 100px);
@@ -8,7 +13,7 @@
     flex-direction: column;
     font-weight: lighter;
     font-family: 'Muli', sans-serif;
-
+    background: #21325e;
   }
 
   .project h1 {
