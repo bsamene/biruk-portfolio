@@ -8,19 +8,19 @@ export const ProjectList = [
         name: "EcoStart",
         image: Placeholder1,
         skills: "React, Javascript, HTML, CSS, Supabase",
-        description: ""
+        description: "A web platform aimed at empowering individuals to fight environmental issues through education, engagement, and collective action."
     },
     {
         name: "Duke Package Pickup Hub",
         image: Placeholder2,
         skills: "Ruby, React, HTML, CSS",
-        description:
+        description: "A mobile-responsive full stack web app that eliminates student wait times at Duke's mail center."
     },
     {
         name: "Type Racer",
         image: Placeholder3,
         skills: "React, Express, Node",
-        description:
+        description: "MERN stack project I'm making because I'm a very fast typer (170 wpm) and wanted to see how the typing games I always play work."
     }
 ]
 
