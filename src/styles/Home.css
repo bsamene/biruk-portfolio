@@ -35,7 +35,7 @@
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
     letter-spacing: .09em; /* Adjust as needed */
     position: relative;
-    padding-bottom: 70px;
+    padding-bottom: 50px;
     animation:
     typing 1.5s steps(26, end) 1.5s 1 normal both,
     blink-caret 0.5s linear infinite;
@@ -54,6 +54,7 @@
   .about .prompt {
     width: 40%;
     font-size: 25px;
+    margin-top: 20px;
   }
   .prompt svg {
     font-size: 60px;
