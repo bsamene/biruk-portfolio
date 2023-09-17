@@ -12,12 +12,14 @@ function Home() {
      <h2> Biruk Amene </h2>
      <div className = "prompt">
      <p> CS <span class="highlight">@</span> Duke University</p>
+     <div className = "logos">
         <a href = "https://www.linkedin.com/in/biruk-amene-274316219/" target="_blank">
         <LinkedInIcon style={{ fontSize: '40px' }}/>
         </a>
         <a href = "https://github.com/bsamene" target="_blank">
         <GitHubIcon style={{ fontSize: '40px' }}/>
         </a>
+        </div>
      </div>
      </div>
 
