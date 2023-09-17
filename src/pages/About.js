@@ -1,6 +1,6 @@
 import React from 'react'
 import "../styles/About.css"
-import AboutUsImage from "../assets/AboutUsImage.jpg"
+import AboutUsImage from "../assets/AboutUsImage.JPG"
 function About() {
   return (
     <>
