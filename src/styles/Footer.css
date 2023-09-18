@@ -17,7 +17,10 @@
     font-size: 70px;
     cursor: pointer;
   }
-
+.copyright {
+  font-family: 'Muli', sans-serif;
+  font-weight: lighter;
+}
   .footer p {
     color: white;
   }
