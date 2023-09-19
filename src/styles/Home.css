@@ -38,7 +38,7 @@
     letter-spacing: -1px;
     padding-bottom: 50px;
     animation:
-    typing 1s steps(14, end) 1s 1 normal both,
+    typing 1s steps(13, end) 1s 1 normal both,
     blink-caret 0.5s linear infinite;
 }
 
