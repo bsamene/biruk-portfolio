@@ -22,7 +22,7 @@ export const ProjectList = [
         name: "Type Racer",
         image: Placeholder3,
         skills: "React, Express, Node",
-        description: "MERN stack project I grew up playing typing games (currently averaging 170 wpm) and wanted to see how they work. Making it One Piece themed because it's the greatest show alive.",
+        description: "MERN stack project I'm making since I grew up playing typing games (currently averaging 170 wpm) and have always wanted to see how they work. Making it One Piece themed because it's the greatest show alive.",
         link: "https://github.com/bsamene/OnePieceTypeRacer",
     }
 ]
